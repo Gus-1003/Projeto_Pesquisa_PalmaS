@@ -9,6 +9,8 @@ Aplicação de visão computacional aplicado na identificação de objetos;
     *   seaborn = https://seaborn.pydata.org/introduction.html
     *   Sklearn.cluster - Kmeans = https://scikit-learn.org/stable/getting_started.html
     *   CV2 = https://docs.opencv.org/4.2.0/d6/d00/tutorial_py_root.html
+    
+    *   data_augumentation = https://www.tensorflow.org/tutorials/images/data_augmentation
  
 ## Inspirações: 
     * https://github.com/alysonmiguel/PalmaS
