@@ -15,7 +15,7 @@
      * A imagem é lida no formato BGR.
      * Link = https://www.geeksforgeeks.org/python-opencv-cv2-imread-method/
   * Split = Decompor uma imagem em seus três canais de cor
-     * Cada canal é representado como uma ndarray com duas dimensões;
+     * Cada canal é representado como uma matriz dimensão NumPy com duas dimensões;
      * Ao exibir os resultados teremos 3 imagens em escala de cinza.
      * Link = https://techtutorialsx.com/2020/03/02/python-opencv-splitting-image-channels/
      
