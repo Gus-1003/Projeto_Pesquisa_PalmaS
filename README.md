@@ -16,3 +16,6 @@ Aplicação de visão computacional aplicado na identificação de objetos;
     * https://github.com/alysonmiguel/PalmaS
     
     * https://github.com/josenalde/palmaS_counting_system
+    
+## Conversor de RGB:
+    * https://toolstud.io/color/rgb.php
