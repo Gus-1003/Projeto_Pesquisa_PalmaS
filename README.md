@@ -11,7 +11,9 @@ Aplicação de visão computacional aplicado na identificação de objetos;
     *   CV2 = https://docs.opencv.org/4.2.0/d6/d00/tutorial_py_root.html    
     *   data_augumentation = https://www.tensorflow.org/tutorials/images/data_augmentation
 
-## Inspirações: 
+## Inspirações:
+    * https://github.com/Gus-1003/Processamento-Digital-de-Imagem
+    
     * https://github.com/alysonmiguel/PalmaS
     
     * https://github.com/josenalde/palmaS_counting_system
