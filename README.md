@@ -36,7 +36,7 @@
     * https://github.com/josenalde/palmaS_counting_system
 
 ##  Livro:
-    *  http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3 %A3o-Computacional-com-Python-e-OpenCV-3.pdf
+    *  Processamento Digital de Imagens 3-Edição : https://drive.google.com/file/d/19yJncgIo2LsuKdRp224rObSpgvr9DubS/view?usp=sharing
    
    
 ## Conversor de RGB:
