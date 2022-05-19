@@ -4,10 +4,10 @@
     * A palma (Opuntia e Nopalea) é uma das principais fontes de suporte alimentar de bovinos, caprinos, ovinos e tem proporcionado, nos últimos anos, uma verdadeira mudança no sistema de criação de ruminantes no Rio Grande do Norte. no semiárido. A infestação por cochonila de escama nas raquetes de palma consiste num problema grave e que necessita de estratégias de controle. A observação de uma superfície pulverulenta (grande quantidade de pontos esbranquiçados), ou seja, com aparência de pó fino nas raquetes, pode indicar a reinfestação da palma por ninfas de 1° e/ou 2° ínstares (estágios de desenvolvimento na fase imatura), sinalizando a presença de novas gerações e consequente aumento populacional da praga. Ao se detectar essa situação, sugere-se aos produtores que medidas de controle sejam adotadas. Entre estas medidas, destacam-se os métodos naturais (óleos) e biológicos (insetos). 
     * No estudo em laboratório do efeito de determinados tratamentos, a eficácia do tratamento é feita pela seleção de área de observação na raquete e, com microscópio, as cochonilas são contadas a olho nu. Esta verificação pode ser otimizada direcionando o esforço e perícia do técnico para as análises em si, e não à contagem, que pode ser otimizada por meio de processamento digital de imagens adquiridas por câmeras e identificação por meio de técnicas de classificação de aprendizagem de máquina.
     
-    Ciclo de vida do Inseto:
-     <div align="center">
-         <img src="https://github.com/Gus-1003/DataScience/blob/main/Ciclo_de_Vida_Dados.png">
-     </div>
+ Ciclo de vida do Inseto:
+  <div align="center">
+      <img src="https://github.com/Gus-1003/DataScience/blob/main/Ciclo_de_Vida_Dados.png">
+  </div>
     
 ## Objetivos do Projeto:
     a) construção de dataset de imagens significativas de diferentes níveis de infestação da cochonila de escama, em diferentes instares; 
