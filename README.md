@@ -18,6 +18,9 @@
     * O trabalho consiste na produção de datasets de imagens com configuração definida, zoom, resolução, iluminação, em laboratório. 
     * Segue-se o treinamento de modelos de classificação, com o estudo de viabilidade de técnicas clássicas, como haar cascade, e técnicas atuais de aprendizagem de máquina
 
+### Meu repositorio de Notas sobre PDI: 
+     * https://github.com/Gus-1003/Processamento-Digital-de-Imagem
+
 ## Bibliotecas e Ferramentas utilizadas:
     * Principal:   
          + Linguagem: Python
