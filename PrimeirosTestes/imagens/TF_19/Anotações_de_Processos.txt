@@ -1,0 +1,12 @@
++ FT_BLUE((B-E-D)-(Threshold-otsu)) -> Analyses Particles (size: 0 - 200 / circularity: 0.00 - 1 / Show: Elipses) = Objetos de segundo insta
+	-> Identificou: 55 objetos / 2897 total de area ocupada / 8.802% Area
+
++ FT_BLUE((B-E-D)-(Threshold-otsu)-(Find_Edges)) -> Analyses Particles (size: 0 - 200 / circularity: 0.00 - 1 / Show: Elipses) = Objetos de segundo insta e Núcleos de Terceito insta
+	-> Identificou: 37 objetos / 2278 total de area ocupada / 6.921% Area
+
+
++ FT_BLUE((B-E-D)-(Threshold-otsu)) -> Analyses Particles (size: 200 - 1000 / circularity: 0.00 - 1 / Show: Elipses) = Aglomerados de segundo insta e objetos de terceito insta menores
+	-> Identificou: 7 objetos / 3180 total de area ocupada / 9.662% Area
+
++ FT_BLUE((B-E-D)-(Threshold-otsu)) -> Analyses Particles (size: 1000 - 2000 / circularity: 0.00 - 1 / Show: Elipses) = Objetos de terceiro insta e Aglomerados
+	-> Identificou: 4 objetos / 5769 total de area ocupada / 17.529% Area
