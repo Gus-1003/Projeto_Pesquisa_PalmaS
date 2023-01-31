@@ -12,6 +12,4 @@ Pesquisa de Iniciação cientifica realizada pela Escola Agrícola de Jundiaí (
   <div align="center">
       <img src="https://github.com/Gus-1003/TADS_Projeto_PalmaS/blob/main/fig1.png">
   </div>
-  
-## OBS.: Para mais informações sobre o trabalho acesse o "Wiki" do repositório;
 
