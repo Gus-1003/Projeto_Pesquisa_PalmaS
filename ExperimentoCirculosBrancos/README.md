@@ -1,1 +1,0 @@
-# Experimento dos Circulos Brancos
